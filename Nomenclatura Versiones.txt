@@ -1,1 +1,1 @@
-Tonamon ver. [versión. Ejemplo: 0.01] - [Mes]/[Día]/[Año]. 
+Tonamon ver. [versión. Ejemplo: 0.01] , [Mes]-[Día]-[Año]. 
